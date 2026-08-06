@@ -345,7 +345,7 @@ Live Dashboard + Map Rendering
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/parth254012-spec/roadsos.git
+git clone https://github.com/iparthmidha/roadsos.git
 ```
 
 ---
